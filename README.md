@@ -1,0 +1,2 @@
+# 2019-Grading-System-invented
+This program is for teachers who computes grades so we make this AVERAGE SOLVER  for some teachers who manualy compute the grades. This program is all for one it means you will not compute the grades with calculator thing or should i say manual compute to solve the average grade of student. This program has a built in calculator that it will compute by the computer itself but this type of calculator is limited variables, you cannot minus or * all the numbers and this is only for Grading Solver.
